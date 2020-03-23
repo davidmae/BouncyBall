@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\EffectorController.cs" />
     <Compile Include="Assets\GameController.cs" />
     <Compile Include="Assets\GameOverController.cs" />
     <Compile Include="Assets\PlatformController.cs" />
